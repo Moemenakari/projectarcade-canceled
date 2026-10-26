@@ -15,12 +15,6 @@
 | **Backend (API)** | https://projectarcade-production.up.railway.app |
 | **GitHub Repository** | https://github.com/Moemenakari/projectarcade |
 
-### Admin Panel Credentials
-
-| Username | Password |
-|----------|----------|
-| Admin    | admin123 |
-
 ---
 
 ## Project Description
